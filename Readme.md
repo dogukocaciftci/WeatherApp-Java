@@ -22,9 +22,6 @@ WeatherApp is a Java application that fetches and displays weather information f
 - Geocoding API: [https://geocoding-api.open-meteo.com/v1/search](https://geocoding-api.open-meteo.com/v1/search)
 - Weather API: [https://api.open-meteo.com/v1/forecast](https://api.open-meteo.com/v1/forecast)
 
-## Screenshots
-(Add screenshots of your application here)
-
 ## Credits
 - Open Meteo API (https://open-meteo.com/)
 - JSON-Simple Library (https://github.com/fangyidong/json-simple)
